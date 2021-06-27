@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ikaro\\Desktop\\PROG\\DIO\\projeto transferencia bancaria\\transferencia-bancaria-dio-master\\transferencia-bancaria-dio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ikaro\\Desktop\\PROG\\DIO\\projeto transferencia bancaria\\transferencia-bancaria-dio-master\\transferencia-bancaria-dio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ikaro\\Desktop\\PROG\\DIO\\projeto transferencia bancaria\\transferencia-bancaria-dio-master\\transferencia-bancaria-dio.csproj",
+        "projectName": "transferencia-bancaria-dio",
+        "projectPath": "C:\\Users\\ikaro\\Desktop\\PROG\\DIO\\projeto transferencia bancaria\\transferencia-bancaria-dio-master\\transferencia-bancaria-dio.csproj",
+        "packagesPath": "C:\\Users\\ikaro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ikaro\\Desktop\\PROG\\DIO\\projeto transferencia bancaria\\transferencia-bancaria-dio-master\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ikaro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
